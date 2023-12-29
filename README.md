@@ -30,6 +30,10 @@ We utilize deep learning to learn a sparse representation within an image. In si
 
 ## Results
 
+<img src="https://github.com/KiwiThePoodle/Image-Super-Resolution-Via-Learning-Sparse-Representation/blob/main/Flowers%20Example.png">
+
+<img src="https://github.com/KiwiThePoodle/Image-Super-Resolution-Via-Learning-Sparse-Representation/blob/main/Foreman%20Example.png">
+
 RMSE: (lower is better)
 
 <img src="https://github.com/KiwiThePoodle/Image-Super-Resolution-Via-Learning-Sparse-Representation/blob/main/RMSE.png">
