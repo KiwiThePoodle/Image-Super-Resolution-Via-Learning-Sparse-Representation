@@ -22,7 +22,7 @@ We utilize deep learning to learn a sparse representation within an image. In si
 - Set5
 - Set14
 
-### Metrics
+### Quantitative Metrics
 
 - Root-Mean-Square Error (RMSE)
 - Peak Signal-to-Noise Ratio (PSNR)
@@ -30,9 +30,13 @@ We utilize deep learning to learn a sparse representation within an image. In si
 
 ## Results
 
+### Images
+
 <img src="https://github.com/KiwiThePoodle/Image-Super-Resolution-Via-Learning-Sparse-Representation/blob/main/Flowers%20Example.png">
 
 <img src="https://github.com/KiwiThePoodle/Image-Super-Resolution-Via-Learning-Sparse-Representation/blob/main/Foreman%20Example.png">
+
+### Quantitative Metrics
 
 RMSE: (lower is better)
 
